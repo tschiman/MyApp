@@ -280,6 +280,18 @@
         "modelNamespace": "MyApp.model",
         "name": "Person"
       }
+    },
+    "app/model/Tester.js": {
+      "source": "{modelFileName}.js.tpl.merge",
+      "version": "31d5356142a167c72422f7902f19df3c583f3249",
+      "parameters": {
+        "appName": "MyApp",
+        "baseClass": "Ext.data.Model",
+        "fields": "id:int:null,name:auto:null,last:auto:null,phone:auto:null,email:auto:null,testsRan:auto:null",
+        "modelFileName": "Tester",
+        "modelNamespace": "MyApp.model",
+        "name": "Tester"
+      }
     }
   }
 }
