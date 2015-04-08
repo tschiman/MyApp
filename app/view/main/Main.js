@@ -29,7 +29,7 @@ Ext.define('MyApp.view.main.Main', {
             title: '{name}'
         },
         region: 'west',
-        html: '<ul><li>This area is commonly used for navigation, for example, using a "tree" component.</li></ul>',
+        html: '<ul><li>This area is common time used for navigation, for example, using a "tree" component.</li></ul>',
         width: 250,
         split: true,
         tbar: [{
