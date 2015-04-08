@@ -1,4 +1,6 @@
 .architect
 bootstrap.json
+bootstrap.css
+bootstrap.js
 build/
 ext/
